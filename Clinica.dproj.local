@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/27 21:55:17.000.175,=C:\Delphi\Unit2.pas</Transaction>
+    <Transaction>2022/03/27 21:55:44.000.722,C:\Delphi\Sistema Clinica\unitPrincipal.pas=C:\Delphi\Unit2.pas</Transaction>
+    <Transaction>2022/03/27 21:55:44.000.722,C:\Delphi\Sistema Clinica\unitPrincipal.dfm=C:\Delphi\Unit2.dfm</Transaction>
+    <Transaction>2022/03/27 21:55:51.000.380,C:\Delphi\Sistema Clinica\Clinica.dproj=C:\Delphi\Project2.dproj</Transaction>
+    <Transaction>2022/03/27 22:49:50.000.952,=C:\Delphi\Sistema Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/03/27 22:50:15.000.063,C:\Delphi\Sistema Clinica\unitCadPacientes.dfm=C:\Delphi\Sistema Clinica\Unit1.dfm</Transaction>
+    <Transaction>2022/03/27 22:50:15.000.063,C:\Delphi\Sistema Clinica\unitCadPacientes.pas=C:\Delphi\Sistema Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/03/27 22:50:28.000.217,=C:\Delphi\Sistema Clinica\Unit3.pas</Transaction>
+    <Transaction>2022/03/27 22:50:38.000.532,C:\Delphi\Sistema Clinica\unitCadAgendamentos.dfm=C:\Delphi\Sistema Clinica\Unit3.dfm</Transaction>
+    <Transaction>2022/03/27 22:50:38.000.532,C:\Delphi\Sistema Clinica\unitCadAgendamentos.pas=C:\Delphi\Sistema Clinica\Unit3.pas</Transaction>
+    <Transaction>2022/03/27 23:15:30.000.110,=C:\Delphi\Sistema Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/03/27 23:17:48.000.193,C:\Delphi\Sistema Clinica\Unit1.pas=C:\Delphi\Sistema Clinica\banco.pas</Transaction>
+    <Transaction>2022/03/27 23:17:48.000.193,C:\Delphi\Sistema Clinica\Unit1.dfm=C:\Delphi\Sistema Clinica\banco.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
